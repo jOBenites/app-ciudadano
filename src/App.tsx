@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { ReportForm } from './components/ReportForm';
 import { AlertsList } from './components/AlertsList';
-// import { ReportsList } from './components/ReportsList';
 import { PoliceChat } from './components/PoliceChat';
 import { SurveysList } from './components/SurveysList';
 import { DataInitializer } from './components/DataInitializer';

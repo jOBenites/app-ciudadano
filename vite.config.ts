@@ -58,5 +58,6 @@
       port: 3000,
       open: true,
     },
-    base: 'https://jobenites.github.io/app-ciudadano',
+    // base: 'https://jobenites.github.io/app-ciudadano',
+    base: '/app-ciudadano/'
   });
